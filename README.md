@@ -1,4 +1,6 @@
-# End-to-end-DS-project
+# Wine Quality Prediction: End-to-End Data Science Project
+
+This project predicts wine quality (0-7) using the Wine Quality dataset with a complete end-to-end data science workflow. It includes automated pipelines for data ingestion, validation, and transformation, ensuring clean and reliable input for model training. The Elastic Net regression model was trained for its ability to handle multicollinearity and select important features effectively. The model evaluation ensured robust performance, while a prediction pipeline was built for seamless deployment. The project integrates DagsHub for version control and data management and MLflow for experiment tracking and metric logging. Finally, the application was deployed using Flask, providing a user-friendly interface for real-time wine quality predictions. This repository is a complete resource for implementing and understanding scalable machine learning workflows.
 
 ## workflows  -- ML Pipeline
 1. Data Ingestion
